@@ -1,0 +1,5 @@
+com\lanouvelle\api\repository\EmployeeRepository.class
+com\lanouvelle\api\ApiApplication.class
+com\lanouvelle\api\model\Employee.class
+com\lanouvelle\api\service\EmployeeService.class
+com\lanouvelle\api\controller\EmployeeController.class
